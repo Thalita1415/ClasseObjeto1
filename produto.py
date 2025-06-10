@@ -19,3 +19,4 @@ produto.input_dados()
 print(f"Produto: {produto.nome}")
 print(f"Valor total em estoque: {produto.calcular_valor_total()}")
 
+

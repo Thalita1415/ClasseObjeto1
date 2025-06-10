@@ -14,4 +14,5 @@ altura = int(input("Digite a altura: "))
 retangulo = Retangulo(largura, altura)
 
 # Exibindo a área calculada
+
 print(f"Área do retângulo: {retangulo.calcular_area()}")
